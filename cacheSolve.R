@@ -1,5 +1,4 @@
 ## > data<-makeCacheMatrix(matrix(rnorm(25),5,5))
-## > data<-makeCacheMatrix(matrix(rnorm(25),5,5))
 ## > cacheSolve(data)
 ##            [,1]        [,2]        [,3]        [,4]       [,5]
 ## [1,]  0.8004703  1.10192731  1.24448161 -1.04348292  1.6611317
